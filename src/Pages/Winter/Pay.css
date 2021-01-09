@@ -1,0 +1,40 @@
+.pay-container {
+  text-align: center;
+  height: 92vh;
+  width: 80%;
+  margin-left: 10%;
+  margin-bottom: 20px;
+  padding: 4rem 0 2rem 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.pay-heading > h1 {
+  font-family: "Dancing Script", cursive;
+  color: black;
+  font-size: 50px;
+  margin-top: 20px;
+  margin-bottom: 50px;
+}
+.pay-heading > p {
+  font-size: 25px;
+  margin-top: 20px;
+}
+.pay-heading {
+  margin-bottom: 50px;
+}
+.sponsor-heading > h1 {
+  font-family: "Dancing Script", cursive;
+  color: black;
+  font-size: 50px;
+  margin-top: 20px;
+  margin-bottom: 50px;
+}
+.sponsor-heading > p {
+  font-size: 25px;
+  margin-top: 20px;
+}
+.sponsor-heading {
+  margin-bottom: 50px;
+}

@@ -1,0 +1,76 @@
+.instructions-container {
+  text-align: center;
+  height: 100%;
+  width: 80%;
+  margin-left: 10%;
+  margin-bottom: 20px;
+  padding: 4rem 0 2rem 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.instructions-heading > h1 {
+  font-family: "Dancing Script", cursive;
+  color: black;
+  font-size: 50px;
+  margin-top: 20px;
+  margin-bottom: 50px;
+}
+.instructions-heading > p {
+  font-size: 25px;
+  margin-top: 20px;
+}
+.instructions-heading {
+  margin-bottom: 50px;
+}
+
+.instructions-links {
+  width: 100%;
+  max-width: 1000px;
+  display: flex;
+  justify-content: center;
+}
+.instructions-links-wrapper {
+  display: flex;
+}
+.instructions-links-items {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  margin: 16px;
+  text-align: left;
+  width: 260px;
+  box-sizing: border-box;
+  font-size: 20px;
+}
+.img {
+  height: 300px;
+}
+.img-4 {
+  margin-left: -100px;
+}
+@media screen and (max-width: 820px) {
+  .footer-links {
+    padding-top: 2rem;
+  }
+
+  .footer-input {
+    width: 100%;
+  }
+
+  .btn {
+    width: 100%;
+  }
+
+  .footer-link-wrapper {
+    flex-direction: column;
+  }
+
+  .social-media-wrap {
+    flex-direction: column;
+  }
+}
+
+@media screen and (max-width: 768px) {
+}
