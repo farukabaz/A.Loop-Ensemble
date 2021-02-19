@@ -11,7 +11,7 @@ function Home() {
             <h1>A.Loop Ensemble</h1>
             <p>Koje vas više zanima?</p>
             
-            <div className='hero-btns'>
+            <div className='hero-btns'> 
 
                 <Link className='links' to='/summer'>
                     <Button 
